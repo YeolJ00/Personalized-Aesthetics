@@ -26,10 +26,12 @@ cd Personalized-Aesthetics
 
 #### Download Aesthetic Assessment Models
 
-*Pre-trained model checkpoints will be available soon. Stay tuned for updates!*
-<!-- ```bash
-git lfs
-``` -->
+__[2024/10/22]__ Pre-trained model checkpoints are now available! 
+Unfortunately, due to security constraints, we are hosting the files on a private cloud service that does not support permanent share links. 
+If you would like access, please submit a request through [this Microsoft form](https://forms.office.com/r/vyxtBDcdcZ), and we will send you a temporary download link.
+
+~~*Pre-trained model checkpoints will be available soon. Stay tuned for updates!*~~
+
 ### Inference
 
 You can easily use our six pre-trained aesthetic scoring models to assess image aesthetics. Below is a Python example using one of the models:
