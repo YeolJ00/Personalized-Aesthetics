@@ -85,7 +85,7 @@ bash train_piaa.sh
 ```bibtex
 @inproceedings{yun2024scaling,
   title={Scaling Up Personalized Image Aesthetic Assessment via Task Vector Customization},
-  author={Jooyeol Yun and Jaegul Choo},
+  author={Yun, Jooeyol and Choo, Jaegul},
   booktitle={ECCV},
   year={2024},
   url={https://arxiv.org/abs/2407.07176}
