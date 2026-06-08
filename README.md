@@ -26,20 +26,16 @@ cd Personalized-Aesthetics
 
 #### Download Aesthetic Assessment Models
 
-__[2025/03/10]__ New links for pre-trained models are out! 
+__[2026/06/10]__ I am planning to send the checkpoints mannually for the time being. Please send an email to blizzard072@kaist.ac.kr so we can figure out a way to send the checkpoints.
+
+~~__[2025/03/10]__ New links for pre-trained models are out! 
 We have found a new way to safely host the files and now support permanent share links. 
 Please use the link below to download the pre-trained models. 
-You no longer have to submit a request. 
+You no longer have to submit a request.~~
 
-
-> Download link: [Link](https://gofile.me/6WpIS/pU1qTO1Dc) 
->
-> Password: yeoljoo
-
-
-__[2024/10/22]__ Pre-trained model checkpoints are now available! 
+~~__[2024/10/22]__ Pre-trained model checkpoints are now available! 
 Unfortunately, due to security constraints, we are hosting the files on a private cloud service that does not support permanent share links. 
-If you would like access, please submit a request through [this Microsoft form](https://forms.office.com/r/vyxtBDcdcZ), and we will send you a temporary download link.
+If you would like access, please submit a request through [this Microsoft form](https://forms.office.com/r/vyxtBDcdcZ), and we will send you a temporary download link.~~
 
 ~~*Pre-trained model checkpoints will be available soon. Stay tuned for updates!*~~
 
